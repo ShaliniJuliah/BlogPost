@@ -1,8 +1,9 @@
 # BlogPost
 The BlogPost web application is developed using Django, a high-level Python web framework, with MongoDB as the database backend. This application allows users to create, manage, and showcase blog posts enriched with multimedia content such as images and videos. It provides a robust and flexible platform for content creators and readers alike.
 
-**Features:**
-MongoDB Database Integration:
+# Features:
+
+**MongoDB Database Integration:**
 BlogPost utilizes MongoDB, a NoSQL database, for storing blog posts and related data. MongoDB's document-oriented structure allows for flexible schema design, making it suitable for managing diverse types of content efficiently.
 
 **Create and Publish Blog Posts:**
