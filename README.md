@@ -20,8 +20,11 @@ The application includes features for managing media files uploaded with blog po
 
 **Technologies Used:**
 Django: A Python web framework that facilitates rapid development and clean, pragmatic design.
+
 MongoDB: A scalable NoSQL database that stores data in JSON-like documents, offering flexibility and performance for handling diverse data types.
+
 HTML/CSS: Standard web technologies used for structuring content and styling the application's frontend.
+
 JavaScript: Enhances user interactions and dynamic content display where necessary.
 
 # Demo Video
